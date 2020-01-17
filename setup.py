@@ -6,7 +6,7 @@ with io.open("README.md", mode="r", encoding='utf-8') as fh:
 
 setuptools.setup(
     name="ruchunker",
-    version="0.0.8",
+    version="0.0.9",
     author="Ilya Koziev",
     author_email="inkoziev@gmail.com",
     description="Chunker for Russian language",
